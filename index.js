@@ -21,7 +21,7 @@ return 'I can\'t hear you!'
 }
 else if (string===string.toUpperCase()) {
 // returns "YES INDEED!" if `string` is uppercase'
-return 'YES INDEED! if \'${string} is uppercase'
+return 'YES INDEED!'
 }
 else if (string.toLowerCase()==="i love you, grandma") {
 return 'I love you, too'
